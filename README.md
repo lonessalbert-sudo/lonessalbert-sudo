@@ -1,111 +1,123 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:00ffcc,70:ff00ff,100:0a0a0a&height=220&section=header&text=lonessalbert-sudo&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=◈%20Security%20Dev%20%7C%20AI%20Builder%20%7C%20Linux%20Enjoyer%20◈&descAlignY=62&descSize=17&animation=fadeIn" />
+
 <div align="center">
 
-<!-- HEADER ANIMADO CYBERPUNK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffcc,100:ff00ff&height=200&section=header&text=lonessalbert-sudo&fontSize=50&fontColor=00ffcc&fontAlignY=38&desc=◈%20Security%20%7C%20AI%20%7C%20Linux%20◈&descAlignY=58&descSize=18&animation=fadeIn&fontStyle=bold" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&width=650&lines=%5B+BOOT+SEQUENCE+INITIALIZED...+%5D;%E2%96%B6+Carregando+perfil+de+lonessalbert-sudo...;%E2%96%B6+Script+Dev+%7C+Cybersec+%7C+AI+%2B+Linux;%E2%96%B6+bytenest-defender-ia+%F0%9F%9B%A1%EF%B8%8F+em+desenvolvimento;%E2%96%B6+%22Hack+the+planet%2C+one+commit+at+a+time.%22;%5B+SISTEMA+PRONTO+%E2%9C%93+%5D" alt="Typing SVG" />
 
-<!-- TYPING SVG ANIMADO -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=false&width=600&lines=%5B+SYSTEM+ONLINE+%5D+Inicializando+perfil...;%E2%96%B6+Script+dev+%7C+Security+enthusiast;%E2%96%B6+Linux+%2F+Debian+power+user;%E2%96%B6+AI+%2B+Cybersec+%3D+%E2%99%BE%EF%B8%8F;%E2%96%B6+bytenest-defender-ia+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- BADGES DE STATUS -->
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d0d0d)
-![OS](https://img.shields.io/badge/OS-DEBIAN-ff00ff?style=for-the-badge&logo=debian&logoColor=white&labelColor=0d0d0d)
-![Focus](https://img.shields.io/badge/FOCUS-SECURITY%20%2B%20AI-ffcc00?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/%E2%97%88_STATUS-ONLINE-00ffcc?style=for-the-badge&labelColor=0a0a0a)
+![OS](https://img.shields.io/badge/%E2%97%88_OS-DEBIAN_GNU%2FLinux-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=0a0a0a)
+![Locale](https://img.shields.io/badge/%E2%97%88_LOCALE-BR_%F0%9F%87%A7%F0%9F%87%B7-ff00ff?style=for-the-badge&labelColor=0a0a0a)
+![Visitors](https://visitcount.itsvg.in/api?id=lonessalbert-sudo&label=ACESSOS&color=6&icon=6&pretty=false)
 
 </div>
 
 ---
 
-## `> whoami`
+## `⟩ whoami`
 
 ```bash
-╔══════════════════════════════════════════════════════════╗
-║  [lonessalbert-sudo@bytenest ~]$ cat profile.txt         ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  ◈  Nome    : lonessalbert-sudo                          ║
-║  ◈  Role    : Security Script Dev & AI Enthusiast        ║
-║  ◈  OS      : Debian GNU/Linux                           ║
-║  ◈  Shell   : /bin/bash                                  ║
-║  ◈  Foco    : Cibersegurança + Inteligência Artificial   ║
-║  ◈  Status  : Sempre construindo algo novo...            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  [lonessalbert-sudo@bytenest ~]$ cat /etc/profile.d/me.sh        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   NAME    ──  lonessalbert-sudo                                  ║
+║   ROLE    ──  Security Script Dev & AI Enthusiast                ║
+║   OS      ──  Debian GNU/Linux  (btw)                            ║
+║   SHELL   ──  /bin/bash                                          ║
+║   EDITOR  ──  VS Code / Nano                                     ║
+║   FOCO    ──  Cibersegurança + Inteligência Artificial           ║
+║   STATUS  ──  Sempre construindo algo... [███████░░░] 75%        ║
+║                                                                  ║
+║   "In a world of packets, be the payload."                       ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> stack --list`
+## `⟩ skills --list`
 
 <div align="center">
 
-### 🔐 Segurança & Sistemas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Sistema & Shell
+<img src="https://skillicons.dev/icons?i=linux,debian,bash,vim&theme=dark&perline=8" />
 
-### 🤖 IA & Dev
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Linguagens & Dev
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs&theme=dark&perline=8" />
+
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark&perline=8" />
 
 </div>
 
 ---
 
-## `> github --stats`
+## `⟩ github --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lonessalbert-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&ring_color=00ffcc&border_radius=10" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonessalbert-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&text_color=ffffff&border_radius=10" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=lonessalbert-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&ring_color=00ffcc&count_private=true&include_all_commits=true&border_radius=12" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonessalbert-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&text_color=ffffff&border_radius=12&langs_count=6" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lonessalbert-sudo&theme=radical&hide_border=true&background=0d0d0d&ring=00ffcc&fire=ff00ff&currStreakLabel=00ffcc&border_radius=10" />
+<img width="70%" src="https://streak-stats.demolab.com?user=lonessalbert-sudo&theme=radical&hide_border=true&background=0a0a0a&ring=00ffcc&fire=ff00ff&currStreakLabel=00ffcc&sideLabels=ffffff&dates=888888&border_radius=12" />
 
 </div>
 
 ---
 
-## `> projects --featured`
+## `⟩ github --trophies`
 
 <div align="center">
 
-[![StrHubX](https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=-StrHubX-Seguran-a-para-seus-scripts-no-MTA&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&border_radius=10)](https://github.com/lonessalbert-sudo/-StrHubX-Seguran-a-para-seus-scripts-no-MTA)
-
-[![ByteNest Defender IA](https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=bytenest-defender-ia&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&border_radius=10)](https://github.com/lonessalbert-sudo/bytenest-defender-ia)
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=lonessalbert-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
 ---
 
-## `> activity --snake`
+## `⟩ activity --graph`
 
 <div align="center">
 
-<!-- Snake animation - ative via GitHub Actions (ver instruções abaixo) -->
-<img src="https://raw.githubusercontent.com/lonessalbert-sudo/lonessalbert-sudo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lonessalbert-sudo&bg_color=0a0a0a&color=00ffcc&line=ff00ff&point=ffffff&area=true&area_color=00ffcc&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## `⟩ projects --pinned`
+
+<div align="center">
+
+[![StrHubX](https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=-StrHubX-Seguran-a-para-seus-scripts-no-MTA&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&border_radius=12)](https://github.com/lonessalbert-sudo/-StrHubX-Seguran-a-para-seus-scripts-no-MTA)
+&nbsp;
+[![ByteNest Defender IA](https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=bytenest-defender-ia&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&border_radius=12)](https://github.com/lonessalbert-sudo/bytenest-defender-ia)
+
+</div>
+
+---
+
+## `⟩ connect --me`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-lonessalbert--sudo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/lonessalbert-sudo)
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffcc,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lonessalbert-sudo.lonessalbert-sudo&left_color=0d0d0d&right_color=00ffcc&left_text=◈%20ACESSOS)
 
 ```
-◈ "In the neon grid, every commit is a pulse. Keep hacking." ◈
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+    "Hack the planet, one commit at a time."
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
 ```
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:ff00ff,70:00ffcc,100:0a0a0a&height=130&section=footer&animation=fadeIn" />
