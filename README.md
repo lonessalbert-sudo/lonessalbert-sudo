@@ -1,16 +1,16 @@
 <!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:2563eb,70:7c3aed,100:06b6d4&height=220&section=header&text=Albert%20Santos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,30:2563EB,65:7C3AED,100:06B6D4&text=Albert%20de%20Jesus%20Lima&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=58" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Building+scalable+applications+and+automation+systems;%F0%9F%A4%96+Discord+Bots+%7C+Artificial+Intelligence+%7C+APIs;%F0%9F%92%BB+React+%7C+Next.js+%7C+NestJS+%7C+Node.js+%7C+Python;%F0%9F%8E%93+Technical+IT+Student+%7C+Microsoft+Azure+AI-900;%E2%9A%A1+Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%90%8D+Python+%7C+Node.js+%7C+TypeScript;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+NestJS;%F0%9F%A4%96+Discord+Bots+%7C+Artificial+Intelligence;%F0%9F%8E%93+Technical+IT+Student+%7C+Azure+AI-900;%E2%9A%A1+Always+Learning.+Always+Building." />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lonessalbert-sudo\&style=for-the-badge\&color=7c3aed)
+![Profile Views](https://komarev.com/ghpvc/?username=lonessalbert-sudo\&style=for-the-badge\&color=7C3AED)
 ![Followers](https://img.shields.io/github/followers/lonessalbert-sudo?style=for-the-badge\&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/lonessalbert-sudo?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/lonessalbert-sudo?style=for-the-badge)
 
 </div>
 
@@ -19,41 +19,41 @@
 # 👨‍💻 About Me
 
 ```yaml
-name: Albert De Jesus Lima
+name: Albert de Jesus Lima
+
 role: Full Stack Developer
+
 location: Brazil 🇧🇷
-
-backend:
-  - Node.js
-  - NestJS
-  - Python
-  - FastAPI
-
-frontend:
-  - React
-  - Next.js
-  - TypeScript
-  - TailwindCSS
-
-specialties:
-  - Discord Bots
-  - REST APIs
-  - Artificial Intelligence
-  - Web Applications
-  - Automation Systems
 
 education:
   - Technical IT Student
   - Microsoft Azure AI-900
+
+main_stack:
+  - Python
+  - Node.js
+  - TypeScript
+  - React
+  - Next.js
+  - NestJS
+
+specialties:
+  - Web Applications
+  - REST APIs
+  - Discord Bots
+  - Artificial Intelligence
+  - Automation Systems
 ```
 
-Sou desenvolvedor Full Stack focado em aplicações web modernas, APIs, automações e bots para Discord.
+Sou desenvolvedor Full Stack apaixonado por tecnologia, automação e inteligência artificial.
 
-Tenho experiência com React, Next.js, NestJS, Node.js e Python, além de interesse contínuo em Inteligência Artificial, Arquitetura de Software e Segurança da Informação.
+Atualmente estudo Técnico em Informática e possuo certificação Microsoft Azure AI-900. Meu foco está no desenvolvimento de aplicações web modernas, APIs escaláveis, bots para Discord e soluções utilizando Python, Node.js e TypeScript.
+
+Estou sempre explorando novas tecnologias e aprimorando minhas habilidades em arquitetura de software, backend, IA e sistemas distribuídos.
 
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
@@ -69,9 +69,9 @@ Tenho experiência com React, Next.js, NestJS, Node.js e Python, além de intere
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-### Tools & DevOps
+### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,debian,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,debian,bash,vscode" />
 
 </div>
 
@@ -81,9 +81,9 @@ Tenho experiência com React, Next.js, NestJS, Node.js e Python, além de intere
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lonessalbert-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lonessalbert-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonessalbert-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonessalbert-sudo&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -99,35 +99,35 @@ Tenho experiência com React, Next.js, NestJS, Node.js e Python, além de intere
 
 <div align="center">
 
-<a href="https://github.com/lonessalbert-sudo/bytenest-defender-ia">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=bytenest-defender-ia&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/lonessalbert-sudo/-StrHubX-Seguran-a-para-seus-scripts-no-MTA">
+<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=-StrHubX-Seguran-a-para-seus-scripts-no-MTA&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/lonessalbert-sudo/-StrHubX-Seguran-a-para-seus-scripts-no-MTA">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=-StrHubX-Seguran-a-para-seus-scripts-no-MTA&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/lonessalbert-sudo/bytenest-defender-ia">
+<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=bytenest-defender-ia&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ### 🛡️ StrHubX
 
-Sistema de proteção, distribuição e gerenciamento de scripts para servidores MTA.
+Plataforma voltada para proteção, gerenciamento e distribuição de scripts para servidores MTA.
 
 ### 🤖 ByteNest Defender AI
 
-Plataforma inteligente voltada para monitoramento, análise e automação utilizando IA.
+Projeto focado em inteligência artificial aplicada à automação e monitoramento.
 
 ### ⚙️ Discord Bots
 
-Desenvolvimento de bots escaláveis utilizando Discord.js, bancos de dados e integrações externas.
+Desenvolvimento de bots escaláveis com Discord.js, bancos de dados e integrações REST.
 
 ---
 
-# 📚 Current Learning
+# 📚 Currently Learning
 
 * Artificial Intelligence
 * Software Architecture
-* NestJS Advanced Patterns
+* NestJS Advanced Concepts
 * Cyber Security
 * Distributed Systems
 * Data Structures & Algorithms
@@ -144,7 +144,7 @@ Desenvolvimento de bots escaláveis utilizando Discord.js, bancos de dados e int
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -161,12 +161,12 @@ Desenvolvimento de bots escaláveis utilizando Discord.js, bancos de dados e int
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/lonessalbert-sudo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -175,16 +175,16 @@ Desenvolvimento de bots escaláveis utilizando Discord.js, bancos de dados e int
 
 <div align="center">
 
-```txt
-while(alive) {
-    learn();
-    build();
-    improve();
+```ts
+while (true) {
+  learn();
+  build();
+  improve();
 }
 ```
 
-"Transforming ideas into scalable solutions."
+### "Transformando ideias em soluções escaláveis."
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:7c3aed,70:2563eb,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,30:7C3AED,65:2563EB,100:0F172A" />
