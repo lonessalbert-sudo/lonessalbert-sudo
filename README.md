@@ -19,7 +19,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-name: Albert Santos
+name: Albert De Jesus Lima
 role: Full Stack Developer
 location: Brazil 🇧🇷
 
