@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- Banner de Cabeçalho Dinâmico -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Albert%20de%20Jesus%20Lima&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=blueviolet&style=flat-square)](https://github.com/SEU_USERNAME_AQUI)
@@ -19,11 +18,11 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 **I am currently pursuing a degree in Computer Science**, actively working on improving my programming skills and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies.
-- 💻 Worked on **.NET Framework** and experience in **Model-View-Controller (MVC)** architecture.
-- ⚡ Skills acquired in programming languages such as **Python, SQL, C#, JavaScript**.
-- 📌 Interest in **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, and Blockchain development**.
-- ✨ *I only like perfection.*
+- 🎓 **Estudante de Engenharia de Software**, focado no aprendizado contínuo de desenvolvimento de software e programação.
+- 🐍 Em constante evolução em **Python**, **JavaScript** e ecossistemas web/backend modernos.
+- ☁️ Estudo e preparação para a certificação **Microsoft Azure AI Fundamentals (IA-900)**.
+- 🤖 Criação e desenvolvimento de bots com **Discord.js**, integrações de API e banco de dados.
+- ✨ *Buscando constantemente evolução, boas práticas e aprendizado.*
 
 </td>
 <td width="40%" align="center" valign="top">
@@ -43,14 +42,8 @@
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://hashnode.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -69,7 +62,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,java,html,css,vue,react,flutter,net,spring,mysql,postgres,mongodb,vscode,git,github,docker,figma,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nestjs,supabase,postgres,discord,git,github,vscode" />
   </a>
 </p>
 
@@ -87,21 +80,15 @@
 ### 🖥️ Tech Stack:
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon_Tech-00E599?style=flat-square&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_IA--900-0089D6?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
 ---
