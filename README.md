@@ -1,190 +1,121 @@
-<!-- HEADER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,30:2563EB,65:7C3AED,100:06B6D4&text=Albert%20de%20Jesus%20Lima&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=58" />
+# Namaste 🙏 I'm Albert de Jesus Lima
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%90%8D+Python+%7C+Node.js+%7C+TypeScript;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+NestJS;%F0%9F%A4%96+Discord+Bots+%7C+Artificial+Intelligence;%F0%9F%8E%93+Technical+IT+Student+%7C+Azure+AI-900;%E2%9A%A1+Always+Learning.+Always+Building." />
+<!-- Banner de Cabeçalho Dinâmico -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Albert%20de%20Jesus%20Lima&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=lonessalbert-sudo\&style=for-the-badge\&color=7C3AED)
-![Followers](https://img.shields.io/github/followers/lonessalbert-sudo?style=for-the-badge\&logo=github)
-![Stars](https://img.shields.io/github/stars/lonessalbert-sudo?style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=blueviolet&style=flat-square)](https://github.com/SEU_USERNAME_AQUI)
+[![Stars](https://img.shields.io/github/stars/SEU_USERNAME_AQUI?style=flat-square&color=red)](https://github.com/SEU_USERNAME_AQUI)
+[![Followers](https://img.shields.io/github/followers/SEU_USERNAME_AQUI?style=flat-square&color=blue)](https://github.com/SEU_USERNAME_AQUI)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+### 💫 About Me
 
-```yaml
-name: Albert de Jesus Lima
+<table border="0">
+<tr>
+<td width="60%" valign="top">
 
-role: Full Stack Developer
+- 🎓 **I am currently pursuing a degree in Computer Science**, actively working on improving my programming skills and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies.
+- 💻 Worked on **.NET Framework** and experience in **Model-View-Controller (MVC)** architecture.
+- ⚡ Skills acquired in programming languages such as **Python, SQL, C#, JavaScript**.
+- 📌 Interest in **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, and Blockchain development**.
+- ✨ *I only like perfection.*
 
-location: Brazil 🇧🇷
-
-education:
-  - Technical IT Student
-  - Microsoft Azure AI-900
-
-main_stack:
-  - Python
-  - Node.js
-  - TypeScript
-  - React
-  - Next.js
-  - NestJS
-
-specialties:
-  - Web Applications
-  - REST APIs
-  - Discord Bots
-  - Artificial Intelligence
-  - Automation Systems
-```
-
-Sou desenvolvedor Full Stack apaixonado por tecnologia, automação e inteligência artificial.
-
-Atualmente estudo Técnico em Informática e possuo certificação Microsoft Azure AI-900. Meu foco está no desenvolvimento de aplicações web modernas, APIs escaláveis, bots para Discord e soluções utilizando Python, Node.js e TypeScript.
-
-Estou sempre explorando novas tecnologias e aprimorando minhas habilidades em arquitetura de software, backend, IA e sistemas distribuídos.
+</td>
+<td width="40%" align="center" valign="top">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--coding-developer-software-pack-design-development-illustrations-3758308.png" width="280px" />
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚙️ Tech Stack
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 Github Status
 
 <div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,express" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,debian,bash,vscode" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+### 💻 Languages & tools I Have Placed My Hands On
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lonessalbert-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonessalbert-sudo&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=lonessalbert-sudo&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,java,html,css,vue,react,flutter,net,spring,mysql,postgres,mongodb,vscode,git,github,docker,figma,linux,bash" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+### ⭐ Best Repositories
 
 <div align="center">
-
-<a href="https://github.com/lonessalbert-sudo/-StrHubX-Seguran-a-para-seus-scripts-no-MTA">
-<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=-StrHubX-Seguran-a-para-seus-scripts-no-MTA&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/lonessalbert-sudo/bytenest-defender-ia">
-<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=lonessalbert-sudo&repo=bytenest-defender-ia&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 🛡️ StrHubX
-
-Plataforma voltada para proteção, gerenciamento e distribuição de scripts para servidores MTA.
-
-### 🤖 ByteNest Defender AI
-
-Projeto focado em inteligência artificial aplicada à automação e monitoramento.
-
-### ⚙️ Discord Bots
-
-Desenvolvimento de bots escaláveis com Discord.js, bancos de dados e integrações REST.
-
----
-
-# 📚 Currently Learning
-
-* Artificial Intelligence
-* Software Architecture
-* NestJS Advanced Concepts
-* Cyber Security
-* Distributed Systems
-* Data Structures & Algorithms
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lonessalbert-sudo&theme=tokyonight&no-frame=true&column=7" />
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME_AQUI&repo=NOME_DO_REPO_1&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME_AQUI&repo=NOME_DO_REPO_2&theme=tokyonight" width="48%" />
 </div>
 
 ---
 
-# 📈 Contribution Graph
+### 🖥️ Tech Stack:
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lonessalbert-sudo&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 📜 Certifications
-
-* 🏅 Microsoft Azure AI-900
-* 🎓 Technical IT Student
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/lonessalbert-sudo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
 
 ---
 
+### ☕ Support Me
+
+<p>
+  <a href="https://www.buymeacoffee.com/SEU_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
+  </a>
+</p>
+
+---
+
 <div align="center">
-
-```ts
-while (true) {
-  learn();
-  build();
-  improve();
-}
-```
-
-### "Transformando ideias em soluções escaláveis."
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,30:7C3AED,65:2563EB,100:0F172A" />
