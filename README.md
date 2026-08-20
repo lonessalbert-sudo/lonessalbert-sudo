@@ -1,4 +1,4 @@
-# Namaste 🙏 I'm Albert de Jesus Lima
+# Hi! I'm Albert de Jesus Lima
 
 <div align="center">
 
