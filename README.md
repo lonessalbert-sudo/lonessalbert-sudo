@@ -1,108 +1,108 @@
-# Hi! I'm Albert de Jesus Lima
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Albert%20de%20Jesus%20Lima&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Albert%20de%20Jesus%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=18&descAlignY=56" width="100%" alt="Banner Albert de Jesus Lima"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=blueviolet&style=flat-square)](https://github.com/SEU_USERNAME_AQUI)
-[![Stars](https://img.shields.io/github/stars/SEU_USERNAME_AQUI?style=flat-square&color=red)](https://github.com/SEU_USERNAME_AQUI)
-[![Followers](https://img.shields.io/github/followers/SEU_USERNAME_AQUI?style=flat-square&color=blue)](https://github.com/SEU_USERNAME_AQUI)
+<a href="https://github.com/SEU_USERNAME_AQUI">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Albert+👋;Estudante+de+Engenharia+de+Software;Python+%7C+JavaScript+%7C+Node.js;Criando+bots+com+Discord.js+🤖;Estudando+para+a+certificação+AI-900+☁️" alt="Animação de apresentação" />
+</a>
+
+<br/>
+
+[![Visualizações](https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=7aa2f7&style=flat-square&label=VISUALIZAÇÕES)](https://github.com/SEU_USERNAME_AQUI)
+[![Estrelas](https://img.shields.io/github/stars/SEU_USERNAME_AQUI?style=flat-square&color=e0af68&label=ESTRELAS)](https://github.com/SEU_USERNAME_AQUI?tab=repositories)
+[![Seguidores](https://img.shields.io/github/followers/SEU_USERNAME_AQUI?style=flat-square&color=9ece6a&label=SEGUIDORES)](https://github.com/SEU_USERNAME_AQUI?tab=followers)
 
 </div>
 
 ---
 
-### 💫 About Me
+## 👨‍💻 Sobre mim
 
-<table border="0">
-<tr>
-<td width="60%" valign="top">
+- 🎓 Estudante de **Engenharia de Software**, focado em aprendizado contínuo e boas práticas.
+- 🐍 Evoluindo em **Python**, **JavaScript/TypeScript** e no ecossistema web/backend moderno.
+- 🤖 Desenvolvo **bots para Discord** com **Discord.js**, integrando APIs e bancos de dados.
+- ☁️ Me preparando para a certificação **Microsoft Azure AI Fundamentals (AI-900)**.
+- 🌱 Sempre em busca de código limpo, projetos reais e novos desafios.
 
-- 🎓 **Estudante de Engenharia de Software**, focado no aprendizado contínuo de desenvolvimento de software e programação.
-- 🐍 Em constante evolução em **Python**, **JavaScript** e ecossistemas web/backend modernos.
-- ☁️ Estudo e preparação para a certificação **Microsoft Azure AI Fundamentals (IA-900)**.
-- 🤖 Criação e desenvolvimento de bots com **Discord.js**, integrações de API e banco de dados.
-- ✨ *Buscando constantemente evolução, boas práticas e aprendizado.*
+### 🎯 Foco atual
 
-</td>
-<td width="40%" align="center" valign="top">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--coding-developer-software-pack-design-development-illustrations-3758308.png" width="280px" />
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🔭 **Construindo** | Bots e APIs com Node.js, integrados a banco de dados |
+| 📚 **Estudando** | Azure AI, TypeScript, NestJS e Next.js |
+| 🤝 **Aberto a** | Colaborações, projetos open source e oportunidades de estágio |
+| 💬 **Pergunte-me sobre** | Discord.js, Python, Supabase |
 
 ---
 
-### 📫 Connect with me:
+## 🛠️ Tecnologias
 
-<p align="left">
-  <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css" alt="Linguagens" />
+
+**Frontend e Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,nestjs,discordjs" alt="Frontend e Backend" />
+
+**Banco de dados e Cloud**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,azure" alt="Banco de dados e Cloud" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
 
 ---
 
-### 📊 Github Status
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Linguagens mais usadas" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=SEU_USERNAME_AQUI&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Sequência de contribuições" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME_AQUI&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de atividade" />
 </div>
 
 ---
 
-### 💻 Languages & tools I Have Placed My Hands On
+## ⭐ Projetos em destaque
+
+<div align="center">
+  <a href="https://github.com/SEU_USERNAME_AQUI/NOME_DO_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME_AQUI&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Repositório 1" />
+  </a>
+  <a href="https://github.com/SEU_USERNAME_AQUI/NOME_DO_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME_AQUI&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Repositório 2" />
+  </a>
+</div>
+
+---
+
+## 📫 Vamos conversar?
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nestjs,supabase,postgres,discord,git,github,vscode" />
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/SEU_ID_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
----
-
-### ⭐ Best Repositories
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME_AQUI&repo=NOME_DO_REPO_1&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME_AQUI&repo=NOME_DO_REPO_2&theme=tokyonight" width="48%" />
-</div>
-
----
-
-### 🖥️ Tech Stack:
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon_Tech-00E599?style=flat-square&logo=postgresql&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_IA--900-0089D6?style=flat-square&logo=microsoft&logoColor=white" />
-</p>
-
----
-
-### ☕ Support Me
-
-<p>
-  <a href="https://www.buymeacoffee.com/SEU_USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
+<p align="center">
+  <a href="https://www.buymeacoffee.com/SEU_USERNAME">
+    <img src="https://img.shields.io/badge/Me%20pague%20um%20café-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
 
----
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <i>"Aprender, construir, errar, corrigir, repetir." 🚀</i>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=100&section=footer" width="100%" alt="Rodapé" />
